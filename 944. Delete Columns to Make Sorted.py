@@ -38,6 +38,7 @@ class Solution:
                     break
 
         return cont
+
         
 #SECOND SOLUTION. COUNT UNSORTED COLUMNS
 
